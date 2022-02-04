@@ -17,18 +17,40 @@ I love connecting with people! feel free to contact me at:
 <br><br>
 <details>
   <summary><b>My Projects</b></summary>
-  </a>
+ <ul>
+ <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis.ipynb">
+  Product Range Analysis
+  </a></li>
+ <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning.ipynb">
+  Gym Customer Churn Prediction - Machine Learning
+  </a></li>
+ <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/3-business_analytics/3-business_analytics.ipynb">
+  Business Analytics
+  </a></li>
+ <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/4-aab-test-analysis/4-aab-test-analysis.ipynb">
+  Analyzing A/A/B Test Results
+  </a></li>
+  <li>More to come soon!</li>
+ </ul>
 </details>
+<!-- add this later
 <details>
   <summary><b>My Art</b></summary>
-  </a>
+  
 </details>
+!-->
 <h2>You can also find my student projects here in <a href="https://www.github.com/Nimstein/Portfolio">my portfolio</a></h2>
 <b>Highlighted Projects:</b><br>
 <ul>
-  <li>Project placeholder 😄</li>
-  <li>Project placeholder 😄</li>
-  <li>Project placeholder 😄</li>
+  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis.ipynb">
+  Product Range Analysis
+  </a></li>
+  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning.ipynb">
+  Gym Customer Churn Prediction - Machine Learning
+  </a></li>
+  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/3-business_analytics/3-business_analytics.ipynb">
+  Business Analytics
+  </a></li>
 </ul>
 
 <!--
