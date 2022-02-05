@@ -46,9 +46,15 @@ I love connecting with people! feel free to contact me at:
 !-->
 <b>Highlighted Projects:</b><br>
 <ul>
-  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis.ipynb">Product Range Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis.zip?raw=True"><b>Or download and run locally</b></a></li>
-  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning.ipynb">Churn Prediction Using Machine Learning</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning.zip?raw=True"><b>Or download and run locally</b></a></li>
-  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/3-business_analytics/3-business_analytics.ipynb">Business Analytics</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/3-business_analytics/3-business_analytics.zip?raw=True"><b>Or download and run locally</b></a></li>
+  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis.ipynb">Product Range Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis.zip?raw=True"><b>Or download and run locally</b></a><br>
+ In this project we perform a product range analysis on an online store invoice dataset.<br>
+  We use several data analysis methods such as Machine learning (Association rules), Seasonality analysis, First transaction analysis and hypothesis testing.</li>
+  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning.ipynb">Churn Prediction Using Machine Learning</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning.zip?raw=True"><b>Or download and run locally</b></a><br>
+ In this project we employ machine learning algorithm to predict the risk of churn for customers of a gym.<br>
+  We will use both supervised and unsupervised learning methods, determine the best algorithm based on each algorithm's metrics and analyze the importance of each data feature to the chance of customer churn.</li>
+  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/3-business_analytics/3-business_analytics.ipynb">Business Analytics</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/3-business_analytics/3-business_analytics.zip?raw=True"><b>Or download and run locally</b></a><br>
+ In this project we perform a cohort analysis on a ticket selling business data and calculate various business metrics such as LTV, CAC, ROI, and ROMI.<br>
+  This will help us determine the success of the business as well as investigate which marketing campaign is producing the best return on investment and which ones we should immediately drop.</li>
 </ul>
 <h2>You can find my full student portfolio here in <a href="https://www.github.com/Nimstein/Portfolio">my portfolio</a></h2>
 
