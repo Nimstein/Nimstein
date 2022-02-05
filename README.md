@@ -39,19 +39,13 @@ I love connecting with people! feel free to contact me at:
   
 </details>
 !-->
-<h2>You can also find my student projects here in <a href="https://www.github.com/Nimstein/Portfolio">my portfolio</a></h2>
 <b>Highlighted Projects:</b><br>
 <ul>
-  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis.ipynb">
-  Product Range Analysis
-  </a></li>
-  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning.ipynb">
-  Gym Customer Churn Prediction - Machine Learning
-  </a></li>
-  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/3-business_analytics/3-business_analytics.ipynb">
-  Business Analytics
-  </a></li>
+  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis.ipynb">Product Range Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis.zip?raw=True"><b>Or download and run locally</b></a></li>
+  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning.ipynb">Churn Prediction Using Machine Learning</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning.zip?raw=True"><b>Or download and run locally</b></a></li>
+  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/3-business_analytics/3-business_analytics.ipynb">Business Analytics</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/3-business_analytics/3-business_analytics.zip?raw=True"><b>Or download and run locally</b></a></li>
 </ul>
+<h2>You can find my full student portfolio here in <a href="https://www.github.com/Nimstein/Portfolio">my portfolio</a></h2>
 
 <!--
 **Nimstein/Nimstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
