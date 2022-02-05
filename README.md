@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nimrod%20Stein-0077b5?logo=linkedin&logoColor=white&style=flat&link=https://www.linkedin.com/in/nimrod-stein/)](https://www.linkedin.com/in/nimrod-stein/)
 [![Gmail Badge](https://img.shields.io/badge/-nimstein@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nimstein@gmail.com)](mailto:nimstein@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white&style=flat&link=https://www.github.com/Nimstein/Portfolio)](https://www.github.com/Nimstein/Portfolio)
 
  <h2><img src="https://c.tenor.com/74l5y1hUdtwAAAAi/pokemon.gif" width="80px">Hi There!</h2>
 I am Nimrod (Or Nimmy 😉).<br>
@@ -56,7 +57,8 @@ I love connecting with people! feel free to contact me at:
  In this project we perform a cohort analysis on a ticket selling business data and calculate various business metrics such as LTV, CAC, ROI, and ROMI.<br>
   This will help us determine the success of the business as well as investigate which marketing campaign is producing the best return on investment and which ones we should immediately drop.</li>
 </ul>
-<h2>You can find my full student portfolio here in <a href="https://www.github.com/Nimstein/Portfolio">my portfolio</a></h2>
+
+## You can find my full student portfolio here in my [![Linkedin Badge](https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white&style=flat&link=https://www.github.com/Nimstein/Portfolio)](https://www.github.com/Nimstein/Portfolio)
 
 <!--
 **Nimstein/Nimstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
