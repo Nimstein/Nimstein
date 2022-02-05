@@ -33,6 +33,8 @@ I love connecting with people! feel free to contact me at:
   <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/5-ab-testing-business-decisions/ab-testing-business-decisions.ipynb">
   Prioritize Hypotheses and AB Analysis
   </a></li>
+  <li><a href= "https://www.canva.com/design/DAEw6-jPJhU/view?utm_content=DAEw6-jPJhU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Youtube Trending Dashboard & Presentation</a></li>
+  <li><a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/b979c9ef0e9b3c4fdee311e047d98d6588a45926/project_notebooks/6-la-cafe-investment-analysis/6-la-cafe-investment-analysis.ipynb">LA Cafe Investment Analysis</a></li>
   <li>More to come soon!</li>
  </ul>
 </details>
