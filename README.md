@@ -18,17 +18,20 @@ I love connecting with people! feel free to contact me at:
 <details>
   <summary><b>My Projects</b></summary>
  <ul>
- <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis.ipynb">
+ <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis-v1.0.ipynb">
   Product Range Analysis
   </a></li>
- <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning.ipynb">
+ <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning-v1.0.ipynb.ipynb">
   Gym Customer Churn Prediction - Machine Learning
   </a></li>
- <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/3-business_analytics/3-business_analytics.ipynb">
+ <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/3-business_analytics/3-business_analytics-v1.0.ipynb">
   Business Analytics
   </a></li>
- <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/4-aab-test-analysis/4-aab-test-analysis.ipynb">
+ <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/4-aab-test-analysis/4-aab-test-analysis-v1.0.ipynb">
   Analyzing A/A/B Test Results
+  </a></li>
+  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/5-ab-testing-business-decisions/ab-testing-business-decisions.ipynb">
+  Prioritize Hypotheses and AB Analysis
   </a></li>
   <li>More to come soon!</li>
  </ul>
