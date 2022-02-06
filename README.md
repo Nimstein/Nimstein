@@ -36,6 +36,7 @@ I love connecting with people! feel free to contact me at:
   </a></li>
   <li><a href= "https://www.canva.com/design/DAEw6-jPJhU/view?utm_content=DAEw6-jPJhU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Youtube Trending Dashboard & Presentation</a></li>
   <li><a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/b979c9ef0e9b3c4fdee311e047d98d6588a45926/project_notebooks/6-la-cafe-investment-analysis/6-la-cafe-investment-analysis.ipynb">LA Cafe Investment Analysis</a></li>
+  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/748d76f47b89720d42e88cb570f55bd975b142c6/project_notebooks/7-video-games-sales-analysis/7-video-games-sales-analysis.ipynb">Video Games Sales Analysis</a></li>
   <li>More to come soon!</li>
  </ul>
 </details>
