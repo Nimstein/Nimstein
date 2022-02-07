@@ -19,13 +19,13 @@ I love connecting with people! feel free to contact me at:
 <details>
   <summary><b>My Projects</b></summary>
  <ul>
- <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis-v1.0.ipynb">
+ <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/5df5642717c85a0f305aa4cd214131d5ab47cfc4/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis-v1.0.ipynb">
   Product Range Analysis
   </a></li>
- <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning-v1.0.ipynb.ipynb">
+ <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/5df5642717c85a0f305aa4cd214131d5ab47cfc4/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning-v1.0.ipynb">
   Gym Customer Churn Prediction - Machine Learning
   </a></li>
- <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/3-business_analytics/3-business_analytics-v1.0.ipynb">
+ <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/5df5642717c85a0f305aa4cd214131d5ab47cfc4/project_notebooks/3-business_analytics/3-business_analytics-v1.0.ipynb">
   Business Analytics
   </a></li>
   <li><a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/234eaf46a1efe70e475eb7ce85e311481ceab0fb/project_notebooks/8-evaluation-of-faulty-ab-test/8-evaluation-of-faulty-ab-test.ipynb">Evaluation of a Faulty AB Test</a></li>
@@ -50,13 +50,13 @@ I love connecting with people! feel free to contact me at:
 !-->
 <b>Highlighted Projects:</b><br>
 <ul>
-  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis.ipynb">Product Range Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis.zip?raw=True"><b>Or download and run locally</b></a><br>
+  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/5df5642717c85a0f305aa4cd214131d5ab47cfc4/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis-v1.0.ipynb">Product Range Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis.zip?raw=True"><b>Or download and run locally</b></a><br>
  In this project we perform a product range analysis on an online store invoice dataset.<br>
   We use several data analysis methods such as Machine learning (Association rules), Seasonality analysis, First transaction analysis and hypothesis testing.</li>
-  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning.ipynb">Churn Prediction Using Machine Learning</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning.zip?raw=True"><b>Or download and run locally</b></a><br>
+  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/5df5642717c85a0f305aa4cd214131d5ab47cfc4/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning-v1.0.ipynb">Churn Prediction Using Machine Learning</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning.zip?raw=True"><b>Or download and run locally</b></a><br>
  In this project we employ machine learning algorithm to predict the risk of churn for customers of a gym.<br>
   We will use both supervised and unsupervised learning methods, determine the best algorithm based on each algorithm's metrics and analyze the importance of each data feature to the chance of customer churn.</li>
-  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/main/project_notebooks/3-business_analytics/3-business_analytics.ipynb">Business Analytics</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/3-business_analytics/3-business_analytics.zip?raw=True"><b>Or download and run locally</b></a><br>
+  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/5df5642717c85a0f305aa4cd214131d5ab47cfc4/project_notebooks/3-business_analytics/3-business_analytics-v1.0.ipynb">Business Analytics</a>&emsp;&emsp;|&emsp;&emsp;<a href="/project_notebooks/3-business_analytics/3-business_analytics.zip?raw=True"><b>Or download and run locally</b></a><br>
  In this project we perform a cohort analysis on a ticket selling business data and calculate various business metrics such as LTV, CAC, ROI, and ROMI.<br>
   This will help us determine the success of the business as well as investigate which marketing campaign is producing the best return on investment and which ones we should immediately drop.</li>
  <li><a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/234eaf46a1efe70e475eb7ce85e311481ceab0fb/project_notebooks/8-evaluation-of-faulty-ab-test/8-evaluation-of-faulty-ab-test.ipynb">Evaluation of a Faulty AB Test</a>&emsp;&emsp;|&emsp;&emsp;<a href="project_notebooks/8-evaluation-of-faulty-ab-test/8-evaluation-of-faulty-ab-test.zip?raw=True">Or download and run locally</a><br>
