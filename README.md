@@ -39,6 +39,7 @@ I love connecting with people! feel free to contact me at:
   <li><a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/b979c9ef0e9b3c4fdee311e047d98d6588a45926/project_notebooks/6-la-cafe-investment-analysis/6-la-cafe-investment-analysis.ipynb">LA Cafe Investment Analysis</a></li>
   <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/748d76f47b89720d42e88cb570f55bd975b142c6/project_notebooks/7-video-games-sales-analysis/7-video-games-sales-analysis.ipynb">Video Games Sales Analysis</a></li>
   <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/091fde77a6b296254702e6288acc4d4f83d1ccd2/project_notebooks/9-ride-sharing-frequency-analysis/9-ride-sharing-frequency-analysis.ipynb">Ride Sharing Frequency Analysis</a></li>
+  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/26f5846b36e35d9896acb530b29b8717ecdcefb9/project_notebooks/10-telecom-plans-analysis/10-telecom-plans-analysis.ipynb">Telecom Plan Success Analysis</a></li>
   <li>More to come soon!</li>
  </ul>
 </details>
