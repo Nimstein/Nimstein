@@ -32,6 +32,7 @@ I love connecting with people! feel free to contact me at:
  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/4-aab-test-analysis/4-aab-test-analysis-v1.0.ipynb">
   Analyzing A/A/B Test Results
   </a></li>
+ <li><a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/3f9be76c72dab8cc7724b4ba9989713dcefbeb96/kaggle_competitions/1-titanic_survivability_prediction_ML/Titanic-surviveability-ML-RFC.ipynb">Kaggle Competition: Predicting Titanic Survivabiliy - ML</a></li>
   <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/65e96e99e906c8af0af473820127468cc394db43/project_notebooks/5-ab-testing-business-decisions/ab-testing-business-decisions.ipynb">
   Prioritize Hypotheses and AB Analysis
   </a></li>
@@ -60,6 +61,9 @@ I love connecting with people! feel free to contact me at:
   <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/5df5642717c85a0f305aa4cd214131d5ab47cfc4/project_notebooks/3-business_analytics/3-business_analytics-v1.0.ipynb">Business Analytics</a>&emsp;&emsp;|&emsp;&emsp;<a href="https://github.com/Nimstein/portfolio/blob/5df5642717c85a0f305aa4cd214131d5ab47cfc4/project_notebooks/3-business_analytics/3-business_analytics.zip?raw=True"><b>Or download and run locally</b></a><br>
  In this project we perform a cohort analysis on a ticket selling business data and calculate various business metrics such as LTV, CAC, ROI, and ROMI.<br>
   This will help us determine the success of the business as well as investigate which marketing campaign is producing the best return on investment and which ones we should immediately drop.</li>
+  <li><a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/3f9be76c72dab8cc7724b4ba9989713dcefbeb96/kaggle_competitions/1-titanic_survivability_prediction_ML/Titanic-surviveability-ML-RFC.ipynb">Kaggle Competition: Predicting Titanic Survivabiliy - ML</a>&emsp;&emsp;|&emsp;&emsp;<a href="https://www.kaggle.com/c/titanic/">Dataset available on Kaggle</a>&emsp;|&emsp;<a href='kaggle_competitions/1-titanic_survivability_prediction_ML/Titanic-surviveability-ML-RFC.ipynb'>Download Notebook Here</a><br>
+  In this Kaggle competition, we are given a train and test dataset with information about passengers of the RMS Titanic that were on board while the superliner sank.<br>
+  We employ feature engineering and cross validation parameter optimization across various machine learning models to fill in missing values and predict which passengers survived and which did not.</li>
  <li><a href= "https://nbviewer.org/github/Nimstein/portfolio/blob/234eaf46a1efe70e475eb7ce85e311481ceab0fb/project_notebooks/8-evaluation-of-faulty-ab-test/8-evaluation-of-faulty-ab-test.ipynb">Evaluation of a Faulty AB Test</a>&emsp;&emsp;|&emsp;&emsp;<a href="https://github.com/Nimstein/portfolio/blob/5df5642717c85a0f305aa4cd214131d5ab47cfc4/project_notebooks/8-evaluation-of-faulty-ab-test/8-evaluation-of-faulty-ab-test.zip?raw=True">Or download and run locally</a><br>
  In this project we perform an evaluation on two AB tests that were done under less than optimal conditions.<br>
   As such, in order to make sense of them, we employ rigorous EDA to determine if the tests are viable, and CR funnel analysis combined with statistical testing to determine if the results are meaningful.</li>
