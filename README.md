@@ -6,7 +6,7 @@
 
  <h2><img src="https://c.tenor.com/74l5y1hUdtwAAAAi/pokemon.gif" width="80px">Hi There!</h2>
 I am Nimrod (Or Nimmy 😉).<br>
-I stand at the precipice of embarking on a bold new carreer path in the data world!<br><br>
+I stand at the precipice of embarking on a bold new career path in the data world!<br><br>
 📚Currently finishing an intensive and exclusive data analysis course at Yandex and looking for new challenges.<br>
 📈Current favorite analysis method: Machine Learning<br>
 🔬I have a BsC in Biology and a special love for nature and science (particularly animal behavior and genetics 🧬).<br>
