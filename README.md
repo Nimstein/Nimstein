@@ -69,7 +69,7 @@ I love connecting with people! feel free to contact me at:
   As such, in order to make sense of them, we employ rigorous EDA to determine if the tests are viable, and CR funnel analysis combined with statistical testing to determine if the results are meaningful.</li>
 </ul>
 
-## You can find my full student portfolio here in my [![Linkedin Badge](https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white&style=flat&link=https://www.github.com/Nimstein/Portfolio)](https://www.github.com/Nimstein/Portfolio)
+## You can find my full student portfolio here in my [![Github Badge](https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white&style=flat&link=https://www.github.com/Nimstein/Portfolio)](https://www.github.com/Nimstein/Portfolio)
 
 <!--
 **Nimstein/Nimstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
