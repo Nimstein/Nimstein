@@ -21,7 +21,7 @@ I love connecting with people! feel free to contact me at:
  <ul>
  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/5df5642717c85a0f305aa4cd214131d5ab47cfc4/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis-v1.0.ipynb">
   Product Range Analysis
-  </a></li>
+  </a>&emsp;&emsp;|&emsp;&emsp;<a href="https://public.tableau.com/app/profile/nims7332/viz/12-ProductRangeAnalysisDashboard/E-CommerceStory">Dashboard</a></li>
  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/5df5642717c85a0f305aa4cd214131d5ab47cfc4/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning-v1.0.ipynb">
   Gym Customer Churn Prediction - Machine Learning
   </a></li>
@@ -52,7 +52,7 @@ I love connecting with people! feel free to contact me at:
 !-->
 <b>Highlighted Projects:</b><br>
 <ul>
-  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/5df5642717c85a0f305aa4cd214131d5ab47cfc4/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis-v1.0.ipynb">Product Range Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="https://github.com/Nimstein/portfolio/blob/5df5642717c85a0f305aa4cd214131d5ab47cfc4/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis.zip?raw=True"><b>Or download and run locally</b></a><br>
+  <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/5df5642717c85a0f305aa4cd214131d5ab47cfc4/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis-v1.0.ipynb">Product Range Analysis</a>&emsp;&emsp;|&emsp;&emsp;<a href="https://public.tableau.com/app/profile/nims7332/viz/12-ProductRangeAnalysisDashboard/E-CommerceStory">Dashboard</a>&emsp;&emsp;|&emsp;&emsp;<a href="https://github.com/Nimstein/portfolio/blob/5df5642717c85a0f305aa4cd214131d5ab47cfc4/project_notebooks/1-e_commerce_product_range_analysis/1-e_commerce_product_range_analysis.zip?raw=True"><b>Or download and run locally</b></a><br>
  In this project we perform a product range analysis on an online store invoice dataset.<br>
   We use several data analysis methods such as Machine learning (Association rules), Seasonality analysis, First transaction analysis and hypothesis testing.</li>
   <li><a href="https://nbviewer.org/github/Nimstein/portfolio/blob/5df5642717c85a0f305aa4cd214131d5ab47cfc4/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning-v1.0.ipynb">Churn Prediction Using Machine Learning</a>&emsp;&emsp;|&emsp;&emsp;<a href="https://github.com/Nimstein/portfolio/blob/5df5642717c85a0f305aa4cd214131d5ab47cfc4/project_notebooks/2-gym_churn_analysis_machine_learning/2-gym_churn_analysis_machine_learning.zip?raw=True"><b>Or download and run locally</b></a><br>
