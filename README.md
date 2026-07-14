@@ -6,8 +6,6 @@
 
  <h2><img src="https://c.tenor.com/74l5y1hUdtwAAAAi/pokemon.gif" width="80px">Hi There!</h2>
 I am a data analyst and BI Developer.
-Feel free to contact me at: 
-[![Linkedin Badge](https://img.shields.io/badge/-Nimrod%20Stein-0077b5?logo=linkedin&logoColor=white&style=flat&link=https://www.linkedin.com/in/nimrod-stein/)](https://www.linkedin.com/in/nimrod-stein/)
 <br><br>
 <details>
   <summary><b>My Projects</b></summary>
