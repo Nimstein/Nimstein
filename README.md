@@ -5,16 +5,9 @@
 [![Github Badge](https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white&style=flat&link=https://www.github.com/Nimstein/Portfolio)](https://www.github.com/Nimstein/Portfolio)
 
  <h2><img src="https://c.tenor.com/74l5y1hUdtwAAAAi/pokemon.gif" width="80px">Hi There!</h2>
-I am Nimrod (Or Nimmy 😉).<br>
-I stand at the precipice of embarking on a bold new career path in the data world!<br><br>
-📚After finishing an intensive data analysis course at Yandex, I spent a couple of amazing months in an internship as a data analyst and now I am looking for my next challenge!<br>
-📈Current favorite analysis method: Machine Learning<br>
-🔬I have a BsC in Biology and a special love for nature and science (particularly animal behavior and genetics 🧬).<br>
-🙂Among things I enjoy: teaching, cooking, reading, creating pixel art and writing d&d campaigns🎲.<br><br>
-
-I love connecting with people! feel free to contact me at: 
+I am a data analyst and BI Developer.
+Feel free to contact me at: 
 [![Linkedin Badge](https://img.shields.io/badge/-Nimrod%20Stein-0077b5?logo=linkedin&logoColor=white&style=flat&link=https://www.linkedin.com/in/nimrod-stein/)](https://www.linkedin.com/in/nimrod-stein/)
-[![Gmail Badge](https://img.shields.io/badge/-nimstein@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nimstein@gmail.com)](mailto:nimstein@gmail.com)
 <br><br>
 <details>
   <summary><b>My Projects</b></summary>
@@ -69,7 +62,7 @@ I love connecting with people! feel free to contact me at:
   As such, in order to make sense of them, we employ rigorous EDA to determine if the tests are viable, and CR funnel analysis combined with statistical testing to determine if the results are meaningful.</li>
 </ul>
 
-## You can find my full student portfolio here in my [![Github Badge](https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white&style=flat&link=https://www.github.com/Nimstein/Portfolio)](https://www.github.com/Nimstein/Portfolio)
+## You can find my full project portfolio here: [![Github Badge](https://img.shields.io/badge/-Portfolio-181717?logo=github&logoColor=white&style=flat&link=https://www.github.com/Nimstein/Portfolio)](https://www.github.com/Nimstein/Portfolio)
 
 <!--
 **Nimstein/Nimstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
